@@ -1,9 +1,8 @@
-### Hi there 👋
+### <img src="https://user-images.githubusercontent.com/94941930/217730085-73693685-ff16-4378-9401-aca28203c112.gif" width="40px" height="40px"/> Hi there!
+
 
 <!--
 **Lol1chw/Lol1chw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
