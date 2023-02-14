@@ -1,6 +1,6 @@
 <h1><img src="https://user-images.githubusercontent.com/94941930/217730085-73693685-ff16-4378-9401-aca28203c112.gif" width="40px" height="40px"/> Hi there!</h1>
 
-<h1>Techologies & Tools🛠️⚙️</h1>
+<h1>Technologies & tools🛠️⚙️</h1>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64px" heigth="64"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64px" heigth="64"/>
